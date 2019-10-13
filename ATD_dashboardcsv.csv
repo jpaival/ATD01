@@ -1,0 +1,274 @@
+Anio,Mes,dia,GLP,Gasolina ,Diesel ,Calidad GLP,Calidad Gasolina,Calidad Diesel ,Equipo,RVP GLP,Octano Gasolina,90% Diesel ,Temperatura
+2019,enero ,1,4014,10780,1159,Especificacion,Especificacion,Fuera Esp,Grupo1,117,92,366,960
+2019,enero ,2,4014,10084,1700,Especificacion,Especificacion,Fuera Esp,Grupo2,121,91,361,960
+2019,enero ,3,4360,10432,1770,Especificacion,Especificacion,Fuera Esp,Grupo3,121,90,365,967
+2019,enero ,4,4315,10432,2009,Especificacion,Especificacion,Fuera Esp,Grupo4,116,93,368,968
+2019,enero ,5,4315,10606,2009,Fuera Esp,Especificacion,Fuera Esp,Grupo1,107,91,369,962
+2019,enero ,6,4014,9911,1546,Especificacion,Especificacion,Especificacion,Grupo2,116,92,352,961
+2019,enero ,7,4115,10867,1700,Especificacion,Especificacion,Especificacion,Grupo3,117,92,352,961
+2019,enero ,8,4115,10606,2318,Especificacion,Especificacion,Especificacion,Grupo4,121,93,353,961
+2019,enero ,9,4315,10084,1200,Especificacion,Especificacion,Especificacion,Grupo1,119,91,354,961
+2019,enero ,10,4416,10780,2009,Especificacion,Especificacion,Especificacion,Grupo2,123,92,356,966
+2019,enero ,11,4366,10780,1777,Especificacion,Especificacion,Especificacion,Grupo3,118,90,359,968
+2019,enero ,12,4416,10780,2009,Especificacion,Especificacion,Especificacion,Grupo4,116,90,356,969
+2019,enero ,13,3814,9563,2009,Especificacion,Especificacion,Especificacion,Grupo1,125,92,351,969
+2019,enero ,14,3814,8694,2937,Especificacion,Especificacion,Especificacion,Grupo2,118,93,348,969
+2019,enero ,15,4014,10432,1468,Especificacion,Especificacion,Especificacion,Grupo3,123,92,354,971
+2019,enero ,16,4115,10084,1546,Especificacion,Especificacion,Especificacion,Grupo4,118,93,355,971
+2019,enero ,17,4115,10432,2318,Especificacion,Especificacion,Especificacion,Grupo1,119,93,357,972
+2019,enero ,18,4266,10258,2241,Especificacion,Especificacion,Especificacion,Grupo2,124,90,350,972
+2019,enero ,19,4366,10606,1700,Especificacion,Especificacion,Especificacion,Grupo3,116,92,358,974
+2019,enero ,20,4315,10780,2009,Especificacion,Especificacion,Especificacion,Grupo4,118,91,351,974
+2019,enero ,21,4516,10780,1700,Especificacion,Especificacion,Especificacion,Grupo1,117,92,353,975
+2019,enero ,22,4366,10780,2009,Especificacion,Especificacion,Especificacion,Grupo2,123,93,356,975
+2019,enero ,23,4265,10432,2318,Especificacion,Especificacion,Especificacion,Grupo3,120,93,351,975
+2019,enero ,24,4315,10432,2009,Fuera Esp,Especificacion,Especificacion,Grupo4,111,90,349,960
+2019,enero ,25,4014,10432,1777,Fuera Esp,Especificacion,Especificacion,Grupo1,105,93,352,963
+2019,enero ,26,4115,10606,2009,Fuera Esp,Especificacion,Especificacion,Grupo2,105,90,348,963
+2019,enero ,27,4014,10432,1546,Fuera Esp,Especificacion,Especificacion,Grupo3,106,92,350,974
+2019,enero ,28,4014,10084,1700,Especificacion,Fuera Esp,Especificacion,Grupo4,115,86,355,961
+2019,enero ,29,4014,9910,1546,Especificacion,Fuera Esp,Especificacion,Grupo1,124,88,352,962
+2019,enero ,30,2409,8520,2318,Especificacion,Fuera Esp,Especificacion,Grupo2,119,86,357,966
+2019,enero ,31,4617,11910,1855,Especificacion,Especificacion,Fuera Esp,Grupo3,124,91,363,967
+2019,febrero,1,4316,10954,2009,Especificacion,Especificacion,Fuera Esp,Grupo4,117,90,366,973
+2019,febrero,2,5219,11302,2009,Especificacion,Especificacion,Especificacion,Grupo1,124,90,349,961
+2019,febrero,3,4717,11128,2009,Especificacion,Especificacion,Especificacion,Grupo2,123,90,357,961
+2019,febrero,4,4717,11649,1700,Especificacion,Especificacion,Especificacion,Grupo3,123,90,357,962
+2019,febrero,5,4617,11302,2009,Especificacion,Especificacion,Especificacion,Grupo4,115,91,351,963
+2019,febrero,6,4315,10867,2086,Especificacion,Especificacion,Especificacion,Grupo1,116,90,354,963
+2019,febrero,7,4315,10606,2164,Especificacion,Especificacion,Especificacion,Grupo2,122,92,355,963
+2019,febrero,8,4717,11128,2164,Especificacion,Especificacion,Especificacion,Grupo3,121,93,358,964
+2019,febrero,9,4717,11649,2009,Especificacion,Especificacion,Especificacion,Grupo4,124,92,357,964
+2019,febrero,10,4617,11649,2009,Especificacion,Especificacion,Especificacion,Grupo1,117,90,358,965
+2019,febrero,11,4416,11649,2009,Especificacion,Especificacion,Especificacion,Grupo2,115,93,357,966
+2019,febrero,12,4717,10606,2318,Especificacion,Especificacion,Especificacion,Grupo3,119,91,356,967
+2019,febrero,13,4717,11301,2164,Especificacion,Especificacion,Especificacion,Grupo4,115,92,354,967
+2019,febrero,14,4617,11475,2164,Especificacion,Especificacion,Especificacion,Grupo1,123,92,351,967
+2019,febrero,15,4667,11302,2473,Especificacion,Especificacion,Especificacion,Grupo2,115,92,357,967
+2019,febrero,16,4315,10606,1855,Especificacion,Especificacion,Especificacion,Grupo3,120,92,356,967
+2019,febrero,17,4215,10954,2164,Especificacion,Especificacion,Especificacion,Grupo4,122,91,348,967
+2019,febrero,18,4867,11301,2318,Especificacion,Especificacion,Especificacion,Grupo1,120,91,357,968
+2019,febrero,19,4315,10432,2164,Especificacion,Especificacion,Especificacion,Grupo2,117,92,359,968
+2019,febrero,20,4717,11302,2318,Especificacion,Especificacion,Especificacion,Grupo3,118,90,356,969
+2019,febrero,21,4617,11475,2009,Especificacion,Especificacion,Especificacion,Grupo4,120,92,358,969
+2019,febrero,22,4717,11301,2318,Especificacion,Especificacion,Especificacion,Grupo1,125,91,356,970
+2019,febrero,23,4817,11301,2009,Especificacion,Especificacion,Especificacion,Grupo2,121,92,352,973
+2019,febrero,24,4366,11302,2318,Especificacion,Especificacion,Especificacion,Grupo3,120,93,356,973
+2019,febrero,25,4617,11649,1855,Especificacion,Especificacion,Especificacion,Grupo4,120,92,357,975
+2019,febrero,26,4516,11475,2002,Especificacion,Especificacion,Especificacion,Grupo1,120,90,359,975
+2019,febrero,27,4717,11128,2009,Fuera Esp,Especificacion,Especificacion,Grupo2,111,93,358,975
+2019,febrero,28,4717,11128,2164,Especificacion,Fuera Esp,Especificacion,Grupo3,118,88,356,970
+2019,marzo,1,4516,11821,2009,Especificacion,Fuera Esp,Especificacion,Grupo4,116,88,349,972
+2019,marzo,2,4867,11302,2318,Especificacion,Fuera Esp,Especificacion,Grupo1,119,87,349,974
+2019,marzo,3,4466,11128,2782,Especificacion,Especificacion,Fuera Esp,Grupo2,121,90,369,964
+2019,marzo,4,4315,10954,2318,Especificacion,Especificacion,Fuera Esp,Grupo3,119,91,369,971
+2019,marzo,5,4215,10606,2782,Especificacion,Especificacion,Especificacion,Grupo4,123,91,352,961
+2019,marzo,6,4315,11128,2473,Especificacion,Especificacion,Especificacion,Grupo1,122,92,355,962
+2019,marzo,7,4416,11128,2628,Especificacion,Especificacion,Especificacion,Grupo2,121,92,353,962
+2019,marzo,8,4315,11280,2937,Especificacion,Especificacion,Especificacion,Grupo3,116,93,356,962
+2019,marzo,9,4315,11215,2782,Especificacion,Especificacion,Especificacion,Grupo4,125,93,348,963
+2019,marzo,10,4014,10432,3091,Especificacion,Especificacion,Especificacion,Grupo1,117,90,355,963
+2019,marzo,11,4366,11024,2318,Especificacion,Especificacion,Especificacion,Grupo2,122,93,358,964
+2019,marzo,12,4315,10606,2628,Especificacion,Especificacion,Especificacion,Grupo3,118,92,355,964
+2019,marzo,13,4215,10954,2628,Especificacion,Especificacion,Especificacion,Grupo4,125,91,351,964
+2019,marzo,14,4466,10953,2782,Especificacion,Especificacion,Especificacion,Grupo1,122,92,349,964
+2019,marzo,15,4315,11128,2937,Especificacion,Especificacion,Especificacion,Grupo2,124,91,359,964
+2019,marzo,16,4215,11128,2781,Especificacion,Especificacion,Especificacion,Grupo3,121,91,359,964
+2019,marzo,17,4315,10432,3091,Especificacion,Especificacion,Especificacion,Grupo4,122,91,359,964
+2019,marzo,18,4366,10954,2318,Especificacion,Especificacion,Especificacion,Grupo1,115,93,356,966
+2019,marzo,19,4014,10432,2859,Especificacion,Especificacion,Especificacion,Grupo2,122,93,354,966
+2019,marzo,20,4466,10954,2705,Especificacion,Especificacion,Especificacion,Grupo3,121,93,349,968
+2019,marzo,21,4115,10954,2782,Especificacion,Especificacion,Especificacion,Grupo4,119,93,354,968
+2019,marzo,22,4315,11302,2473,Especificacion,Especificacion,Especificacion,Grupo1,124,92,358,969
+2019,marzo,23,4014,10606,3091,Especificacion,Especificacion,Especificacion,Grupo2,115,90,353,969
+2019,marzo,24,4014,10432,2782,Especificacion,Especificacion,Especificacion,Grupo3,118,92,356,970
+2019,marzo,25,4115,10432,3091,Especificacion,Especificacion,Especificacion,Grupo4,118,92,358,972
+2019,marzo,26,4315,11302,2705,Especificacion,Especificacion,Especificacion,Grupo1,118,91,357,973
+2019,marzo,27,4215,10954,2781,Especificacion,Especificacion,Especificacion,Grupo2,121,90,349,973
+2019,marzo,28,4265,11041,2859,Especificacion,Especificacion,Especificacion,Grupo3,122,90,350,974
+2019,marzo,29,4115,10954,2473,Especificacion,Especificacion,Especificacion,Grupo4,119,92,353,975
+2019,marzo ,30,4416,11128,2473,Fuera Esp,Especificacion,Especificacion,Grupo1,105,93,356,970
+2019,marzo ,31,4315,10954,2473,Fuera Esp,Especificacion,Especificacion,Grupo2,107,90,349,974
+2019,abril,1,4315,11302,2782,Especificacion,Fuera Esp,Especificacion,Grupo3,119,89,358,972
+2019,abril,2,4315,10954,2473,Especificacion,Fuera Esp,Especificacion,Grupo4,125,88,350,974
+2019,abril,3,4014,10780,1546,Especificacion,Especificacion,Fuera Esp,Grupo1,121,90,361,960
+2019,abril,4,4115,11128,2728,Especificacion,Especificacion,Fuera Esp,Grupo2,118,90,366,968
+2019,abril,5,3011,8694,1159,Especificacion,Especificacion,Fuera Esp,Grupo3,123,92,363,974
+2019,abril,6,4516,10432,2318,Fuera Esp,Especificacion,Fuera Esp,Grupo4,109,91,363,974
+2019,abril,7,4115,11302,2473,Especificacion,Especificacion,Especificacion,Grupo1,115,92,359,960
+2019,abril,8,4315,10778,2164,Especificacion,Especificacion,Especificacion,Grupo2,117,91,356,960
+2019,abril,9,4014,10954,2859,Especificacion,Especificacion,Especificacion,Grupo3,116,93,354,961
+2019,abril,10,3964,10606,3091,Especificacion,Especificacion,Especificacion,Grupo4,118,91,348,961
+2019,abril,11,4115,10780,2782,Especificacion,Especificacion,Especificacion,Grupo1,115,91,351,962
+2019,abril,12,4115,10780,2550,Especificacion,Especificacion,Especificacion,Grupo2,116,90,354,962
+2019,abril,13,4215,11041,2009,Especificacion,Especificacion,Especificacion,Grupo3,122,91,351,962
+2019,abril,14,4014,11128,2473,Especificacion,Especificacion,Especificacion,Grupo4,119,93,359,964
+2019,abril,15,3212,8694,1159,Especificacion,Especificacion,Especificacion,Grupo1,117,92,349,964
+2019,abril,16,4115,10432,2318,Especificacion,Especificacion,Especificacion,Grupo2,121,93,359,964
+2019,abril,17,4416,10780,1700,Especificacion,Especificacion,Especificacion,Grupo3,124,91,355,965
+2019,abril,18,4014,10432,3091,Especificacion,Especificacion,Especificacion,Grupo4,118,91,353,968
+2019,abril,19,4014,10780,2782,Especificacion,Especificacion,Especificacion,Grupo1,116,92,349,968
+2019,abril,20,4014,11302,2728,Especificacion,Especificacion,Especificacion,Grupo2,122,91,352,968
+2019,abril,21,3814,11128,2473,Especificacion,Especificacion,Especificacion,Grupo3,122,90,353,968
+2019,abril,22,4014,10432,3091,Especificacion,Especificacion,Especificacion,Grupo4,122,91,354,971
+2019,abril,23,3814,10171,1159,Especificacion,Especificacion,Especificacion,Grupo1,123,92,359,975
+2019,abril,24,4014,10780,1546,Fuera Esp,Especificacion,Especificacion,Grupo2,111,92,357,961
+2019,abril,25,4315,10954,1855,Fuera Esp,Especificacion,Especificacion,Grupo3,109,90,356,963
+2019,abril,26,3964,10606,3091,Fuera Esp,Especificacion,Especificacion,Grupo4,109,90,354,975
+2019,abril,27,4215,10780,1700,Especificacion,Fuera Esp,Especificacion,Grupo1,115,88,357,971
+2019,abril,28,3011,8694,1159,Especificacion,Fuera Esp,Especificacion,Grupo2,117,87,354,971
+2019,abril,29,4014,11128,2164,Especificacion,Fuera Esp,Especificacion,Grupo3,123,87,355,972
+2019,abril,30,3713,10780,2937,Especificacion,Fuera Esp,Especificacion,Grupo4,123,88,353,973
+2019,mayo,1,4968,11302,1391,Especificacion,Especificacion,Fuera Esp,Grupo1,124,91,368,962
+2019,mayo,2,4717,11302,1855,Especificacion,Especificacion,Fuera Esp,Grupo2,120,93,365,974
+2019,mayo,3,4717,10778,1391,Especificacion,Especificacion,Especificacion,Grupo3,116,92,358,960
+2019,mayo,4,4416,11649,1546,Especificacion,Especificacion,Especificacion,Grupo4,124,90,358,961
+2019,mayo,5,4867,11301,1700,Especificacion,Especificacion,Especificacion,Grupo1,122,92,350,961
+2019,mayo,6,4817,11302,1700,Especificacion,Especificacion,Especificacion,Grupo2,119,91,356,964
+2019,mayo,7,4817,11301,1777,Especificacion,Especificacion,Especificacion,Grupo3,118,91,355,964
+2019,mayo,8,4667,11302,1159,Especificacion,Especificacion,Especificacion,Grupo4,115,93,354,965
+2019,mayo,9,4717,11649,1855,Especificacion,Especificacion,Especificacion,Grupo1,118,90,353,965
+2019,mayo,10,5018,11475,1700,Especificacion,Especificacion,Especificacion,Grupo2,125,91,356,965
+2019,mayo,11,4817,11301,1700,Especificacion,Especificacion,Especificacion,Grupo3,116,91,357,965
+2019,mayo,12,4616,10560,1546,Especificacion,Especificacion,Especificacion,Grupo4,115,91,349,966
+2019,mayo,13,4667,10780,1236,Especificacion,Especificacion,Especificacion,Grupo1,125,91,352,967
+2019,mayo,14,4817,11128,1932,Especificacion,Especificacion,Especificacion,Grupo2,117,90,350,967
+2019,mayo,15,5018,11475,1700,Especificacion,Especificacion,Especificacion,Grupo3,125,91,356,969
+2019,mayo,16,4817,11301,1932,Especificacion,Especificacion,Especificacion,Grupo4,123,92,352,970
+2019,mayo,17,4867,11301,2086,Especificacion,Especificacion,Especificacion,Grupo1,119,93,348,970
+2019,mayo,18,4717,10867,1700,Especificacion,Especificacion,Especificacion,Grupo2,117,90,349,971
+2019,mayo,19,4918,11302,1700,Especificacion,Especificacion,Especificacion,Grupo3,115,90,351,971
+2019,mayo,20,4817,11128,1314,Especificacion,Especificacion,Especificacion,Grupo4,121,93,355,972
+2019,mayo,21,4817,11301,1777,Especificacion,Especificacion,Especificacion,Grupo1,120,91,353,973
+2019,mayo,22,4717,10606,1546,Especificacion,Especificacion,Especificacion,Grupo2,118,91,359,975
+2019,mayo,23,5068,11388,1546,Especificacion,Especificacion,Especificacion,Grupo3,121,92,349,975
+2019,mayo,24,5018,11302,1700,Fuera Esp,Especificacion,Especificacion,Grupo4,105,90,357,961
+2019,mayo,25,4717,10954,1546,Fuera Esp,Especificacion,Especificacion,Grupo1,105,92,349,963
+2019,mayo,26,4667,11475,1159,Fuera Esp,Especificacion,Especificacion,Grupo2,106,92,353,969
+2019,mayo,27,4817,11128,1932,Especificacion,Fuera Esp,Especificacion,Grupo3,119,88,356,960
+2019,mayo,28,4918,11649,1546,Especificacion,Fuera Esp,Especificacion,Grupo4,120,88,359,964
+2019,mayo,29,4717,10780,1159,Especificacion,Fuera Esp,Especificacion,Grupo1,119,86,349,967
+2019,mayo,30,4717,11040,1546,Especificacion,Fuera Esp,Especificacion,Grupo2,116,87,358,969
+2019,mayo,31,4466,11425,1314,Especificacion,Fuera Esp,Especificacion,Grupo3,115,86,351,973
+2019,junio,1,4516,11475,2009,Especificacion,Especificacion,Fuera Esp,Grupo4,124,90,369,961
+2019,junio,2,4617,10954,1546,Especificacion,Especificacion,Fuera Esp,Grupo1,120,92,363,966
+2019,junio,3,4616,11475,1546,Especificacion,Especificacion,Fuera Esp,Grupo2,121,90,367,974
+2019,junio,4,4416,11649,1700,Especificacion,Especificacion,Especificacion,Grupo3,124,91,351,960
+2019,junio,5,4416,11649,1855,Especificacion,Especificacion,Especificacion,Grupo4,124,93,356,960
+2019,junio,6,4617,11997,1468,Especificacion,Especificacion,Especificacion,Grupo1,120,90,354,960
+2019,junio,7,4717,10954,1468,Especificacion,Especificacion,Especificacion,Grupo2,124,92,357,960
+2019,junio,8,4516,11823,1700,Especificacion,Especificacion,Especificacion,Grupo3,124,92,359,962
+2019,junio,9,4918,10954,1855,Especificacion,Especificacion,Especificacion,Grupo4,123,91,352,962
+2019,junio,10,4817,11301,1546,Especificacion,Especificacion,Especificacion,Grupo1,115,91,359,964
+2019,junio,11,4416,11823,2009,Especificacion,Especificacion,Especificacion,Grupo2,125,90,351,964
+2019,junio,12,4717,11301,1391,Especificacion,Especificacion,Especificacion,Grupo3,118,93,353,964
+2019,junio,13,4617,11649,1700,Especificacion,Especificacion,Especificacion,Grupo4,115,91,358,965
+2019,junio,14,4717,11301,1391,Especificacion,Especificacion,Especificacion,Grupo1,116,93,350,965
+2019,junio,15,5018,10780,1700,Especificacion,Especificacion,Especificacion,Grupo2,124,92,357,965
+2019,junio,16,4416,9041,1159,Especificacion,Especificacion,Especificacion,Grupo3,122,93,356,966
+2019,junio,17,4717,11301,1700,Especificacion,Especificacion,Especificacion,Grupo4,120,90,358,967
+2019,junio,18,4717,11649,1546,Especificacion,Especificacion,Especificacion,Grupo1,125,92,356,967
+2019,junio,19,4516,10954,2009,Especificacion,Especificacion,Especificacion,Grupo2,122,91,358,968
+2019,junio,20,4616,11649,1546,Especificacion,Especificacion,Especificacion,Grupo3,115,93,350,969
+2019,junio,21,4616,11649,1546,Especificacion,Especificacion,Especificacion,Grupo4,116,93,358,969
+2019,junio,22,4416,11823,2009,Especificacion,Especificacion,Especificacion,Grupo1,116,92,357,972
+2019,junio,23,5018,10780,1546,Especificacion,Especificacion,Especificacion,Grupo2,119,92,356,972
+2019,junio,24,4817,10432,1391,Especificacion,Especificacion,Especificacion,Grupo3,124,90,352,974
+2019,junio,25,4617,11475,2164,Especificacion,Especificacion,Especificacion,Grupo4,116,92,356,975
+2019,junio,26,4616,11649,1546,Fuera Esp,Especificacion,Especificacion,Grupo1,110,90,359,973
+2019,junio,27,4516,10432,1159,Especificacion,Fuera Esp,Especificacion,Grupo2,122,87,351,962
+2019,junio,28,4515,10954,1855,Especificacion,Fuera Esp,Especificacion,Grupo3,118,88,351,971
+2019,junio,29,4416,11736,1546,Fuera Esp,Fuera Esp,Especificacion,Grupo4,110,88,349,961
+2019,junio,30,4717,11997,1546,Fuera Esp,Fuera Esp,Especificacion,Grupo1,110,87,348,975
+2019,julio,1,4265,9911,1700,Especificacion,Especificacion,Fuera Esp,Grupo2,121,92,367,966
+2019,julio,2,4315,10084,1546,Especificacion,Especificacion,Fuera Esp,Grupo3,120,90,369,971
+2019,julio,3,4265,9563,1391,Especificacion,Especificacion,Fuera Esp,Grupo4,118,91,361,972
+2019,julio,4,4366,11302,2318,Especificacion,Especificacion,Fuera Esp,Grupo1,120,91,361,975
+2019,julio,5,4414,11302,2318,Fuera Esp,Especificacion,Fuera Esp,Grupo2,110,91,365,971
+2019,julio,6,4516,10606,2009,Especificacion,Especificacion,Especificacion,Grupo3,124,92,351,962
+2019,julio,7,4717,11649,1855,Especificacion,Especificacion,Especificacion,Grupo4,120,92,356,963
+2019,julio,8,4215,9911,1391,Especificacion,Especificacion,Especificacion,Grupo1,125,91,351,963
+2019,julio,9,0,10258,1546,Especificacion,Especificacion,Especificacion,Grupo2,119,91,353,965
+2019,julio,10,4617,11649,1855,Especificacion,Especificacion,Especificacion,Grupo3,125,91,353,968
+2019,julio,11,4817,11302,1855,Especificacion,Especificacion,Especificacion,Grupo4,120,93,353,969
+2019,julio,12,4366,10084,1314,Especificacion,Especificacion,Especificacion,Grupo1,125,93,356,969
+2019,julio,13,4215,10606,1546,Especificacion,Especificacion,Especificacion,Grupo2,118,93,358,970
+2019,julio,14,4516,11302,2009,Especificacion,Especificacion,Especificacion,Grupo3,116,92,354,972
+2019,julio,15,4215,9911,1546,Especificacion,Especificacion,Especificacion,Grupo4,119,90,355,972
+2019,julio,16,4014,10258,1546,Especificacion,Especificacion,Especificacion,Grupo1,121,92,350,972
+2019,julio,17,4215,9563,1546,Especificacion,Especificacion,Especificacion,Grupo2,122,90,354,973
+2019,julio,18,4265,9563,1700,Especificacion,Especificacion,Especificacion,Grupo3,118,92,356,973
+2019,julio,19,4115,10606,1546,Especificacion,Especificacion,Especificacion,Grupo4,118,91,348,974
+2019,julio,20,4265,10084,1159,Especificacion,Especificacion,Especificacion,Grupo1,124,93,349,974
+2019,julio,21,4516,11302,1932,Especificacion,Especificacion,Especificacion,Grupo2,115,93,353,975
+2019,julio,22,4215,9737,1546,Especificacion,Especificacion,Especificacion,Grupo3,119,93,357,975
+2019,julio,23,4315,10432,1236,Fuera Esp,Especificacion,Especificacion,Grupo4,106,91,351,961
+2019,julio,24,4416,11302,1700,Fuera Esp,Especificacion,Especificacion,Grupo1,109,93,357,962
+2019,julio,25,4014,10084,1236,Fuera Esp,Especificacion,Especificacion,Grupo2,111,91,349,971
+2019,julio,26,4366,11649,1854,Especificacion,Fuera Esp,Especificacion,Grupo3,116,87,351,964
+2019,julio,27,4817,11302,1855,Especificacion,Fuera Esp,Especificacion,Grupo4,120,86,356,965
+2019,julio,28,4115,10432,1546,Especificacion,Fuera Esp,Especificacion,Grupo1,123,89,348,971
+2019,julio,29,3964,10606,1314,Especificacion,Fuera Esp,Especificacion,Grupo2,121,89,348,975
+2019,julio,30,4415,10432,2473,Especificacion,Especificacion,Especificacion,Grupo3,117,93,349,973
+2019,julio,31,4115,10432,2318,Especificacion,Fuera Esp,Especificacion,Grupo4,118,88,352,967
+2019,agosto,1,3613,9911,1546,Especificacion,Especificacion,Fuera Esp,Grupo1,117,90,362,961
+2019,agosto,2,4516,10780,1700,Especificacion,Especificacion,Fuera Esp,Grupo2,123,92,364,961
+2019,agosto,3,4918,11475,1546,Fuera Esp,Especificacion,Fuera Esp,Grupo3,111,93,361,965
+2019,agosto,4,4315,10780,1700,Fuera Esp,Especificacion,Fuera Esp,Grupo4,109,91,361,971
+2019,agosto,5,3814,10954,1855,Especificacion,Especificacion,Especificacion,Grupo1,123,91,350,961
+2019,agosto,6,4817,11301,1546,Especificacion,Especificacion,Especificacion,Grupo2,120,90,351,961
+2019,agosto,7,4817,11649,1623,Especificacion,Especificacion,Especificacion,Grupo3,121,92,353,961
+2019,agosto,8,4817,10606,1546,Especificacion,Especificacion,Especificacion,Grupo4,120,91,352,962
+2019,agosto,9,4918,10954,2009,Especificacion,Especificacion,Especificacion,Grupo1,115,91,348,964
+2019,agosto,10,4717,11302,1855,Especificacion,Especificacion,Especificacion,Grupo2,118,92,352,964
+2019,agosto,11,3412,9389,1700,Especificacion,Especificacion,Especificacion,Grupo3,121,93,359,965
+2019,agosto,12,3613,10432,1700,Especificacion,Especificacion,Especificacion,Grupo4,121,90,349,965
+2019,agosto,13,3412,9041,1855,Especificacion,Especificacion,Especificacion,Grupo1,121,93,354,967
+2019,agosto,14,4516,10780,1700,Especificacion,Especificacion,Especificacion,Grupo2,119,90,353,967
+2019,agosto,15,4817,11301,1623,Especificacion,Especificacion,Especificacion,Grupo3,124,93,354,967
+2019,agosto,16,4918,11475,1855,Especificacion,Especificacion,Especificacion,Grupo4,117,93,354,969
+2019,agosto,17,4617,11302,2318,Especificacion,Especificacion,Especificacion,Grupo1,120,92,359,969
+2019,agosto,18,4817,11301,1546,Especificacion,Especificacion,Especificacion,Grupo2,117,91,356,971
+2019,agosto,19,4817,11301,2164,Especificacion,Especificacion,Especificacion,Grupo3,119,91,348,972
+2019,agosto,20,4315,11128,1700,Especificacion,Especificacion,Especificacion,Grupo4,121,92,359,972
+2019,agosto,21,3011,9389,2009,Especificacion,Especificacion,Especificacion,Grupo1,122,92,358,974
+2019,agosto,22,4918,11041,1159,Especificacion,Especificacion,Especificacion,Grupo2,122,91,358,974
+2019,agosto,23,4617,11302,2009,Especificacion,Especificacion,Especificacion,Grupo3,118,90,349,975
+2019,agosto,24,4918,11302,2009,Especificacion,Especificacion,Especificacion,Grupo4,119,92,359,975
+2019,agosto,25,4617,10954,2009,Fuera Esp,Especificacion,Especificacion,Grupo1,109,91,358,965
+2019,agosto,26,3412,9215,1700,Fuera Esp,Especificacion,Especificacion,Grupo2,107,92,356,966
+2019,agosto,27,4516,10432,1546,Fuera Esp,Especificacion,Especificacion,Grupo3,107,93,353,966
+2019,agosto,28,4460,11475,1700,Especificacion,Fuera Esp,Especificacion,Grupo4,124,87,349,965
+2019,agosto,29,3814,8867,2318,Especificacion,Fuera Esp,Especificacion,Grupo1,115,87,352,968
+2019,agosto,30,4918,10084,1546,Especificacion,Fuera Esp,Especificacion,Grupo2,121,87,353,968
+2019,agosto,31,4918,10432,1777,Especificacion,Fuera Esp,Especificacion,Grupo3,124,86,359,970
+2019,septiembre,1,4416,9215,1159,Especificacion,Especificacion,Fuera Esp,Grupo4,121,93,368,969
+2019,septiembre,2,4617,11302,1855,Especificacion,Especificacion,Especificacion,Grupo1,116,92,351,960
+2019,septiembre,3,4717,10780,1546,Especificacion,Especificacion,Especificacion,Grupo2,123,91,350,960
+2019,septiembre,4,4014,10084,1005,Especificacion,Especificacion,Especificacion,Grupo3,122,91,355,962
+2019,septiembre,5,3613,10432,1314,Especificacion,Especificacion,Especificacion,Grupo4,122,92,349,963
+2019,septiembre,6,4717,11823,1700,Especificacion,Especificacion,Especificacion,Grupo1,117,92,353,964
+2019,septiembre,7,3814,10432,773,Especificacion,Especificacion,Especificacion,Grupo2,123,92,354,964
+2019,septiembre,8,4767,12170,1623,Especificacion,Especificacion,Especificacion,Grupo3,122,93,348,965
+2019,septiembre,9,4617,11649,2009,Especificacion,Especificacion,Especificacion,Grupo4,120,91,356,965
+2019,septiembre,10,4817,11649,1546,Especificacion,Especificacion,Especificacion,Grupo1,121,92,358,965
+2019,septiembre,11,4817,11649,1855,Especificacion,Especificacion,Especificacion,Grupo2,119,92,353,965
+2019,septiembre,12,4817,11041,1546,Especificacion,Especificacion,Especificacion,Grupo3,119,91,348,966
+2019,septiembre,13,4717,11302,1777,Especificacion,Especificacion,Especificacion,Grupo4,124,90,359,966
+2019,septiembre,14,4215,11823,1546,Especificacion,Especificacion,Especificacion,Grupo1,122,93,351,967
+2019,septiembre,15,4918,11128,1855,Especificacion,Especificacion,Especificacion,Grupo2,121,91,356,968
+2019,septiembre,16,4717,113,1700,Especificacion,Especificacion,Especificacion,Grupo3,125,93,349,968
+2019,septiembre,17,5018,11128,1700,Especificacion,Especificacion,Especificacion,Grupo4,,92,358,969
+2019,septiembre,18,3814,9563,1314,Especificacion,Especificacion,Especificacion,Grupo1,102,90,341,969
+2019,septiembre,19,0,0,0,Especificacion,Especificacion,Especificacion,Grupo2,103,92,347,970
+2019,septiembre,20,4817,11736,1932,Especificacion,Especificacion,Especificacion,Grupo3,108,91,359,972
+2019,septiembre,21,4817,11128,1700,Especificacion,Especificacion,Especificacion,Grupo4,106,92,345,973
+2019,septiembre,22,4717,10606,2164,Especificacion,Especificacion,Especificacion,Grupo1,103,91,340,974
+2019,septiembre,23,4918,11823,1816,Especificacion,Especificacion,Especificacion,Grupo2,110,91,353,975
+2019,septiembre,24,4867,11475,2009,Fuera Esp,Especificacion,Especificacion,Grupo3,109,91,353,963
+2019,septiembre,25,4615,11649,1855,Fuera Esp,Especificacion,Especificacion,Grupo4,100,91,344,968
+2019,septiembre,26,4617,11821,2009,Especificacion,Fuera Esp,Especificacion,Grupo1,104,86,346,965
+2019,septiembre,27,4717,10606,1700,Especificacion,Fuera Esp,Especificacion,Grupo2,112,85,342,967
+2019,septiembre,28,4867,11997,2009,Especificacion,Fuera Esp,Especificacion,Grupo3,105,88,345,973
+2019,septiembre ,29,4918,11823,1546,Especificacion,Especificacion,Especificacion,Grupo4,123,91,353,962
+2019,septiembre ,30,4867,11997,1000,Especificacion,Especificacion,Especificacion,Grupo1,107,91,353,968
