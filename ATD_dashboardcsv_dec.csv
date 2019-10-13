@@ -1,0 +1,274 @@
+Anio,Mes,dia,GLP,Gasolina ,Diesel ,Calidad_GLP,Calidad_Gasolina,Calidad_Diesel ,Equipo,RVP_GLP,Octano_Gasolina,90%_Diesel ,Temperatura
+2019,enero ,1.00,4014.00,10780.00,1159.00,Especificacion,Especificacion,Fuera Esp,Grupo1,117.00,92.00,366.00,960.00
+2019,enero ,2.00,4014.00,10084.00,1700.00,Especificacion,Especificacion,Fuera Esp,Grupo2,121.00,91.00,361.00,960.00
+2019,enero ,3.00,4360.00,10432.00,1770.00,Especificacion,Especificacion,Fuera Esp,Grupo3,121.00,90.00,365.00,967.00
+2019,enero ,4.00,4315.00,10432.00,2009.00,Especificacion,Especificacion,Fuera Esp,Grupo4,116.00,93.00,368.00,968.00
+2019,enero ,5.00,4315.00,10606.00,2009.00,Fuera Esp,Especificacion,Fuera Esp,Grupo1,107.00,91.00,369.00,962.00
+2019,enero ,6.00,4014.00,9911.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,116.00,92.00,352.00,961.00
+2019,enero ,7.00,4115.00,10867.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,117.00,92.00,352.00,961.00
+2019,enero ,8.00,4115.00,10606.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo4,121.00,93.00,353.00,961.00
+2019,enero ,9.00,4315.00,10084.00,1200.00,Especificacion,Especificacion,Especificacion,Grupo1,119.00,91.00,354.00,961.00
+2019,enero ,10.00,4416.00,10780.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,123.00,92.00,356.00,966.00
+2019,enero ,11.00,4366.00,10780.00,1777.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,90.00,359.00,968.00
+2019,enero ,12.00,4416.00,10780.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,116.00,90.00,356.00,969.00
+2019,enero ,13.00,3814.00,9563.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,92.00,351.00,969.00
+2019,enero ,14.00,3814.00,8694.00,2937.00,Especificacion,Especificacion,Especificacion,Grupo2,118.00,93.00,348.00,969.00
+2019,enero ,15.00,4014.00,10432.00,1468.00,Especificacion,Especificacion,Especificacion,Grupo3,123.00,92.00,354.00,971.00
+2019,enero ,16.00,4115.00,10084.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,93.00,355.00,971.00
+2019,enero ,17.00,4115.00,10432.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo1,119.00,93.00,357.00,972.00
+2019,enero ,18.00,4266.00,10258.00,2241.00,Especificacion,Especificacion,Especificacion,Grupo2,124.00,90.00,350.00,972.00
+2019,enero ,19.00,4366.00,10606.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,92.00,358.00,974.00
+2019,enero ,20.00,4315.00,10780.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,91.00,351.00,974.00
+2019,enero ,21.00,4516.00,10780.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo1,117.00,92.00,353.00,975.00
+2019,enero ,22.00,4366.00,10780.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,123.00,93.00,356.00,975.00
+2019,enero ,23.00,4265.00,10432.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo3,120.00,93.00,351.00,975.00
+2019,enero ,24.00,4315.00,10432.00,2009.00,Fuera Esp,Especificacion,Especificacion,Grupo4,111.00,90.00,349.00,960.00
+2019,enero ,25.00,4014.00,10432.00,1777.00,Fuera Esp,Especificacion,Especificacion,Grupo1,105.00,93.00,352.00,963.00
+2019,enero ,26.00,4115.00,10606.00,2009.00,Fuera Esp,Especificacion,Especificacion,Grupo2,105.00,90.00,348.00,963.00
+2019,enero ,27.00,4014.00,10432.00,1546.00,Fuera Esp,Especificacion,Especificacion,Grupo3,106.00,92.00,350.00,974.00
+2019,enero ,28.00,4014.00,10084.00,1700.00,Especificacion,Fuera Esp,Especificacion,Grupo4,115.00,86.00,355.00,961.00
+2019,enero ,29.00,4014.00,9910.00,1546.00,Especificacion,Fuera Esp,Especificacion,Grupo1,124.00,88.00,352.00,962.00
+2019,enero ,30.00,2409.00,8520.00,2318.00,Especificacion,Fuera Esp,Especificacion,Grupo2,119.00,86.00,357.00,966.00
+2019,enero ,31.00,4617.00,11910.00,1855.00,Especificacion,Especificacion,Fuera Esp,Grupo3,124.00,91.00,363.00,967.00
+2019,febrero,1.00,4316.00,10954.00,2009.00,Especificacion,Especificacion,Fuera Esp,Grupo4,117.00,90.00,366.00,973.00
+2019,febrero,2.00,5219.00,11302.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,124.00,90.00,349.00,961.00
+2019,febrero,3.00,4717.00,11128.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,123.00,90.00,357.00,961.00
+2019,febrero,4.00,4717.00,11649.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,123.00,90.00,357.00,962.00
+2019,febrero,5.00,4617.00,11302.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,115.00,91.00,351.00,963.00
+2019,febrero,6.00,4315.00,10867.00,2086.00,Especificacion,Especificacion,Especificacion,Grupo1,116.00,90.00,354.00,963.00
+2019,febrero,7.00,4315.00,10606.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,92.00,355.00,963.00
+2019,febrero,8.00,4717.00,11128.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,93.00,358.00,964.00
+2019,febrero,9.00,4717.00,11649.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,124.00,92.00,357.00,964.00
+2019,febrero,10.00,4617.00,11649.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,117.00,90.00,358.00,965.00
+2019,febrero,11.00,4416.00,11649.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,115.00,93.00,357.00,966.00
+2019,febrero,12.00,4717.00,10606.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo3,119.00,91.00,356.00,967.00
+2019,febrero,13.00,4717.00,11301.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo4,115.00,92.00,354.00,967.00
+2019,febrero,14.00,4617.00,11475.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo1,123.00,92.00,351.00,967.00
+2019,febrero,15.00,4667.00,11302.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo2,115.00,92.00,357.00,967.00
+2019,febrero,16.00,4315.00,10606.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo3,120.00,92.00,356.00,967.00
+2019,febrero,17.00,4215.00,10954.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo4,122.00,91.00,348.00,967.00
+2019,febrero,18.00,4867.00,11301.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo1,120.00,91.00,357.00,968.00
+2019,febrero,19.00,4315.00,10432.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo2,117.00,92.00,359.00,968.00
+2019,febrero,20.00,4717.00,11302.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,90.00,356.00,969.00
+2019,febrero,21.00,4617.00,11475.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,92.00,358.00,969.00
+2019,febrero,22.00,4717.00,11301.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,91.00,356.00,970.00
+2019,febrero,23.00,4817.00,11301.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,121.00,92.00,352.00,973.00
+2019,febrero,24.00,4366.00,11302.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo3,120.00,93.00,356.00,973.00
+2019,febrero,25.00,4617.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,92.00,357.00,975.00
+2019,febrero,26.00,4516.00,11475.00,2002.00,Especificacion,Especificacion,Especificacion,Grupo1,120.00,90.00,359.00,975.00
+2019,febrero,27.00,4717.00,11128.00,2009.00,Fuera Esp,Especificacion,Especificacion,Grupo2,111.00,93.00,358.00,975.00
+2019,febrero,28.00,4717.00,11128.00,2164.00,Especificacion,Fuera Esp,Especificacion,Grupo3,118.00,88.00,356.00,970.00
+2019,marzo,1.00,4516.00,11821.00,2009.00,Especificacion,Fuera Esp,Especificacion,Grupo4,116.00,88.00,349.00,972.00
+2019,marzo,2.00,4867.00,11302.00,2318.00,Especificacion,Fuera Esp,Especificacion,Grupo1,119.00,87.00,349.00,974.00
+2019,marzo,3.00,4466.00,11128.00,2782.00,Especificacion,Especificacion,Fuera Esp,Grupo2,121.00,90.00,369.00,964.00
+2019,marzo,4.00,4315.00,10954.00,2318.00,Especificacion,Especificacion,Fuera Esp,Grupo3,119.00,91.00,369.00,971.00
+2019,marzo,5.00,4215.00,10606.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo4,123.00,91.00,352.00,961.00
+2019,marzo,6.00,4315.00,11128.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo1,122.00,92.00,355.00,962.00
+2019,marzo,7.00,4416.00,11128.00,2628.00,Especificacion,Especificacion,Especificacion,Grupo2,121.00,92.00,353.00,962.00
+2019,marzo,8.00,4315.00,11280.00,2937.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,93.00,356.00,962.00
+2019,marzo,9.00,4315.00,11215.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo4,125.00,93.00,348.00,963.00
+2019,marzo,10.00,4014.00,10432.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo1,117.00,90.00,355.00,963.00
+2019,marzo,11.00,4366.00,11024.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,93.00,358.00,964.00
+2019,marzo,12.00,4315.00,10606.00,2628.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,92.00,355.00,964.00
+2019,marzo,13.00,4215.00,10954.00,2628.00,Especificacion,Especificacion,Especificacion,Grupo4,125.00,91.00,351.00,964.00
+2019,marzo,14.00,4466.00,10953.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo1,122.00,92.00,349.00,964.00
+2019,marzo,15.00,4315.00,11128.00,2937.00,Especificacion,Especificacion,Especificacion,Grupo2,124.00,91.00,359.00,964.00
+2019,marzo,16.00,4215.00,11128.00,2781.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,91.00,359.00,964.00
+2019,marzo,17.00,4315.00,10432.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo4,122.00,91.00,359.00,964.00
+2019,marzo,18.00,4366.00,10954.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo1,115.00,93.00,356.00,966.00
+2019,marzo,19.00,4014.00,10432.00,2859.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,93.00,354.00,966.00
+2019,marzo,20.00,4466.00,10954.00,2705.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,93.00,349.00,968.00
+2019,marzo,21.00,4115.00,10954.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo4,119.00,93.00,354.00,968.00
+2019,marzo,22.00,4315.00,11302.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo1,124.00,92.00,358.00,969.00
+2019,marzo,23.00,4014.00,10606.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo2,115.00,90.00,353.00,969.00
+2019,marzo,24.00,4014.00,10432.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,92.00,356.00,970.00
+2019,marzo,25.00,4115.00,10432.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,92.00,358.00,972.00
+2019,marzo,26.00,4315.00,11302.00,2705.00,Especificacion,Especificacion,Especificacion,Grupo1,118.00,91.00,357.00,973.00
+2019,marzo,27.00,4215.00,10954.00,2781.00,Especificacion,Especificacion,Especificacion,Grupo2,121.00,90.00,349.00,973.00
+2019,marzo,28.00,4265.00,11041.00,2859.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,90.00,350.00,974.00
+2019,marzo,29.00,4115.00,10954.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo4,119.00,92.00,353.00,975.00
+2019,marzo ,30.00,4416.00,11128.00,2473.00,Fuera Esp,Especificacion,Especificacion,Grupo1,105.00,93.00,356.00,970.00
+2019,marzo ,31.00,4315.00,10954.00,2473.00,Fuera Esp,Especificacion,Especificacion,Grupo2,107.00,90.00,349.00,974.00
+2019,abril,1.00,4315.00,11302.00,2782.00,Especificacion,Fuera Esp,Especificacion,Grupo3,119.00,89.00,358.00,972.00
+2019,abril,2.00,4315.00,10954.00,2473.00,Especificacion,Fuera Esp,Especificacion,Grupo4,125.00,88.00,350.00,974.00
+2019,abril,3.00,4014.00,10780.00,1546.00,Especificacion,Especificacion,Fuera Esp,Grupo1,121.00,90.00,361.00,960.00
+2019,abril,4.00,4115.00,11128.00,2728.00,Especificacion,Especificacion,Fuera Esp,Grupo2,118.00,90.00,366.00,968.00
+2019,abril,5.00,3011.00,8694.00,1159.00,Especificacion,Especificacion,Fuera Esp,Grupo3,123.00,92.00,363.00,974.00
+2019,abril,6.00,4516.00,10432.00,2318.00,Fuera Esp,Especificacion,Fuera Esp,Grupo4,109.00,91.00,363.00,974.00
+2019,abril,7.00,4115.00,11302.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo1,115.00,92.00,359.00,960.00
+2019,abril,8.00,4315.00,10778.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo2,117.00,91.00,356.00,960.00
+2019,abril,9.00,4014.00,10954.00,2859.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,93.00,354.00,961.00
+2019,abril,10.00,3964.00,10606.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,91.00,348.00,961.00
+2019,abril,11.00,4115.00,10780.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo1,115.00,91.00,351.00,962.00
+2019,abril,12.00,4115.00,10780.00,2550.00,Especificacion,Especificacion,Especificacion,Grupo2,116.00,90.00,354.00,962.00
+2019,abril,13.00,4215.00,11041.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,91.00,351.00,962.00
+2019,abril,14.00,4014.00,11128.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo4,119.00,93.00,359.00,964.00
+2019,abril,15.00,3212.00,8694.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo1,117.00,92.00,349.00,964.00
+2019,abril,16.00,4115.00,10432.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo2,121.00,93.00,359.00,964.00
+2019,abril,17.00,4416.00,10780.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,91.00,355.00,965.00
+2019,abril,18.00,4014.00,10432.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,91.00,353.00,968.00
+2019,abril,19.00,4014.00,10780.00,2782.00,Especificacion,Especificacion,Especificacion,Grupo1,116.00,92.00,349.00,968.00
+2019,abril,20.00,4014.00,11302.00,2728.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,91.00,352.00,968.00
+2019,abril,21.00,3814.00,11128.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,90.00,353.00,968.00
+2019,abril,22.00,4014.00,10432.00,3091.00,Especificacion,Especificacion,Especificacion,Grupo4,122.00,91.00,354.00,971.00
+2019,abril,23.00,3814.00,10171.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo1,123.00,92.00,359.00,975.00
+2019,abril,24.00,4014.00,10780.00,1546.00,Fuera Esp,Especificacion,Especificacion,Grupo2,111.00,92.00,357.00,961.00
+2019,abril,25.00,4315.00,10954.00,1855.00,Fuera Esp,Especificacion,Especificacion,Grupo3,109.00,90.00,356.00,963.00
+2019,abril,26.00,3964.00,10606.00,3091.00,Fuera Esp,Especificacion,Especificacion,Grupo4,109.00,90.00,354.00,975.00
+2019,abril,27.00,4215.00,10780.00,1700.00,Especificacion,Fuera Esp,Especificacion,Grupo1,115.00,88.00,357.00,971.00
+2019,abril,28.00,3011.00,8694.00,1159.00,Especificacion,Fuera Esp,Especificacion,Grupo2,117.00,87.00,354.00,971.00
+2019,abril,29.00,4014.00,11128.00,2164.00,Especificacion,Fuera Esp,Especificacion,Grupo3,123.00,87.00,355.00,972.00
+2019,abril,30.00,3713.00,10780.00,2937.00,Especificacion,Fuera Esp,Especificacion,Grupo4,123.00,88.00,353.00,973.00
+2019,mayo,1.00,4968.00,11302.00,1391.00,Especificacion,Especificacion,Fuera Esp,Grupo1,124.00,91.00,368.00,962.00
+2019,mayo,2.00,4717.00,11302.00,1855.00,Especificacion,Especificacion,Fuera Esp,Grupo2,120.00,93.00,365.00,974.00
+2019,mayo,3.00,4717.00,10778.00,1391.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,92.00,358.00,960.00
+2019,mayo,4.00,4416.00,11649.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,124.00,90.00,358.00,961.00
+2019,mayo,5.00,4867.00,11301.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo1,122.00,92.00,350.00,961.00
+2019,mayo,6.00,4817.00,11302.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo2,119.00,91.00,356.00,964.00
+2019,mayo,7.00,4817.00,11301.00,1777.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,91.00,355.00,964.00
+2019,mayo,8.00,4667.00,11302.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo4,115.00,93.00,354.00,965.00
+2019,mayo,9.00,4717.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo1,118.00,90.00,353.00,965.00
+2019,mayo,10.00,5018.00,11475.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo2,125.00,91.00,356.00,965.00
+2019,mayo,11.00,4817.00,11301.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,91.00,357.00,965.00
+2019,mayo,12.00,4616.00,10560.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,115.00,91.00,349.00,966.00
+2019,mayo,13.00,4667.00,10780.00,1236.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,91.00,352.00,967.00
+2019,mayo,14.00,4817.00,11128.00,1932.00,Especificacion,Especificacion,Especificacion,Grupo2,117.00,90.00,350.00,967.00
+2019,mayo,15.00,5018.00,11475.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,125.00,91.00,356.00,969.00
+2019,mayo,16.00,4817.00,11301.00,1932.00,Especificacion,Especificacion,Especificacion,Grupo4,123.00,92.00,352.00,970.00
+2019,mayo,17.00,4867.00,11301.00,2086.00,Especificacion,Especificacion,Especificacion,Grupo1,119.00,93.00,348.00,970.00
+2019,mayo,18.00,4717.00,10867.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo2,117.00,90.00,349.00,971.00
+2019,mayo,19.00,4918.00,11302.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,115.00,90.00,351.00,971.00
+2019,mayo,20.00,4817.00,11128.00,1314.00,Especificacion,Especificacion,Especificacion,Grupo4,121.00,93.00,355.00,972.00
+2019,mayo,21.00,4817.00,11301.00,1777.00,Especificacion,Especificacion,Especificacion,Grupo1,120.00,91.00,353.00,973.00
+2019,mayo,22.00,4717.00,10606.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,118.00,91.00,359.00,975.00
+2019,mayo,23.00,5068.00,11388.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,92.00,349.00,975.00
+2019,mayo,24.00,5018.00,11302.00,1700.00,Fuera Esp,Especificacion,Especificacion,Grupo4,105.00,90.00,357.00,961.00
+2019,mayo,25.00,4717.00,10954.00,1546.00,Fuera Esp,Especificacion,Especificacion,Grupo1,105.00,92.00,349.00,963.00
+2019,mayo,26.00,4667.00,11475.00,1159.00,Fuera Esp,Especificacion,Especificacion,Grupo2,106.00,92.00,353.00,969.00
+2019,mayo,27.00,4817.00,11128.00,1932.00,Especificacion,Fuera Esp,Especificacion,Grupo3,119.00,88.00,356.00,960.00
+2019,mayo,28.00,4918.00,11649.00,1546.00,Especificacion,Fuera Esp,Especificacion,Grupo4,120.00,88.00,359.00,964.00
+2019,mayo,29.00,4717.00,10780.00,1159.00,Especificacion,Fuera Esp,Especificacion,Grupo1,119.00,86.00,349.00,967.00
+2019,mayo,30.00,4717.00,11040.00,1546.00,Especificacion,Fuera Esp,Especificacion,Grupo2,116.00,87.00,358.00,969.00
+2019,mayo,31.00,4466.00,11425.00,1314.00,Especificacion,Fuera Esp,Especificacion,Grupo3,115.00,86.00,351.00,973.00
+2019,junio,1.00,4516.00,11475.00,2009.00,Especificacion,Especificacion,Fuera Esp,Grupo4,124.00,90.00,369.00,961.00
+2019,junio,2.00,4617.00,10954.00,1546.00,Especificacion,Especificacion,Fuera Esp,Grupo1,120.00,92.00,363.00,966.00
+2019,junio,3.00,4616.00,11475.00,1546.00,Especificacion,Especificacion,Fuera Esp,Grupo2,121.00,90.00,367.00,974.00
+2019,junio,4.00,4416.00,11649.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,91.00,351.00,960.00
+2019,junio,5.00,4416.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,124.00,93.00,356.00,960.00
+2019,junio,6.00,4617.00,11997.00,1468.00,Especificacion,Especificacion,Especificacion,Grupo1,120.00,90.00,354.00,960.00
+2019,junio,7.00,4717.00,10954.00,1468.00,Especificacion,Especificacion,Especificacion,Grupo2,124.00,92.00,357.00,960.00
+2019,junio,8.00,4516.00,11823.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,92.00,359.00,962.00
+2019,junio,9.00,4918.00,10954.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,123.00,91.00,352.00,962.00
+2019,junio,10.00,4817.00,11301.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo1,115.00,91.00,359.00,964.00
+2019,junio,11.00,4416.00,11823.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,125.00,90.00,351.00,964.00
+2019,junio,12.00,4717.00,11301.00,1391.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,93.00,353.00,964.00
+2019,junio,13.00,4617.00,11649.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,115.00,91.00,358.00,965.00
+2019,junio,14.00,4717.00,11301.00,1391.00,Especificacion,Especificacion,Especificacion,Grupo1,116.00,93.00,350.00,965.00
+2019,junio,15.00,5018.00,10780.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo2,124.00,92.00,357.00,965.00
+2019,junio,16.00,4416.00,9041.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,93.00,356.00,966.00
+2019,junio,17.00,4717.00,11301.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,90.00,358.00,967.00
+2019,junio,18.00,4717.00,11649.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,92.00,356.00,967.00
+2019,junio,19.00,4516.00,10954.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,91.00,358.00,968.00
+2019,junio,20.00,4616.00,11649.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo3,115.00,93.00,350.00,969.00
+2019,junio,21.00,4616.00,11649.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,116.00,93.00,358.00,969.00
+2019,junio,22.00,4416.00,11823.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,116.00,92.00,357.00,972.00
+2019,junio,23.00,5018.00,10780.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,119.00,92.00,356.00,972.00
+2019,junio,24.00,4817.00,10432.00,1391.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,90.00,352.00,974.00
+2019,junio,25.00,4617.00,11475.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo4,116.00,92.00,356.00,975.00
+2019,junio,26.00,4616.00,11649.00,1546.00,Fuera Esp,Especificacion,Especificacion,Grupo1,110.00,90.00,359.00,973.00
+2019,junio,27.00,4516.00,10432.00,1159.00,Especificacion,Fuera Esp,Especificacion,Grupo2,122.00,87.00,351.00,962.00
+2019,junio,28.00,4515.00,10954.00,1855.00,Especificacion,Fuera Esp,Especificacion,Grupo3,118.00,88.00,351.00,971.00
+2019,junio,29.00,4416.00,11736.00,1546.00,Fuera Esp,Fuera Esp,Especificacion,Grupo4,110.00,88.00,349.00,961.00
+2019,junio,30.00,4717.00,11997.00,1546.00,Fuera Esp,Fuera Esp,Especificacion,Grupo1,110.00,87.00,348.00,975.00
+2019,julio,1.00,4265.00,9911.00,1700.00,Especificacion,Especificacion,Fuera Esp,Grupo2,121.00,92.00,367.00,966.00
+2019,julio,2.00,4315.00,10084.00,1546.00,Especificacion,Especificacion,Fuera Esp,Grupo3,120.00,90.00,369.00,971.00
+2019,julio,3.00,4265.00,9563.00,1391.00,Especificacion,Especificacion,Fuera Esp,Grupo4,118.00,91.00,361.00,972.00
+2019,julio,4.00,4366.00,11302.00,2318.00,Especificacion,Especificacion,Fuera Esp,Grupo1,120.00,91.00,361.00,975.00
+2019,julio,5.00,4414.00,11302.00,2318.00,Fuera Esp,Especificacion,Fuera Esp,Grupo2,110.00,91.00,365.00,971.00
+2019,julio,6.00,4516.00,10606.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,92.00,351.00,962.00
+2019,julio,7.00,4717.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,92.00,356.00,963.00
+2019,julio,8.00,4215.00,9911.00,1391.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,91.00,351.00,963.00
+2019,julio,9.00,4215.00,9911.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,119.00,91.00,353.00,965.00
+2019,julio,10.00,4617.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo3,125.00,91.00,353.00,968.00
+2019,julio,11.00,4817.00,11302.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,93.00,353.00,969.00
+2019,julio,12.00,4366.00,10084.00,1314.00,Especificacion,Especificacion,Especificacion,Grupo1,125.00,93.00,356.00,969.00
+2019,julio,13.00,4215.00,10606.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,118.00,93.00,358.00,970.00
+2019,julio,14.00,4516.00,11302.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo3,116.00,92.00,354.00,972.00
+2019,julio,15.00,4215.00,9911.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,119.00,90.00,355.00,972.00
+2019,julio,16.00,4014.00,10258.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo1,121.00,92.00,350.00,972.00
+2019,julio,17.00,4215.00,9563.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,90.00,354.00,973.00
+2019,julio,18.00,4265.00,9563.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,92.00,356.00,973.00
+2019,julio,19.00,4115.00,10606.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,118.00,91.00,348.00,974.00
+2019,julio,20.00,4265.00,10084.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo1,124.00,93.00,349.00,974.00
+2019,julio,21.00,4516.00,11302.00,1932.00,Especificacion,Especificacion,Especificacion,Grupo2,115.00,93.00,353.00,975.00
+2019,julio,22.00,4215.00,9737.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo3,119.00,93.00,357.00,975.00
+2019,julio,23.00,4315.00,10432.00,1236.00,Fuera Esp,Especificacion,Especificacion,Grupo4,106.00,91.00,351.00,961.00
+2019,julio,24.00,4416.00,11302.00,1700.00,Fuera Esp,Especificacion,Especificacion,Grupo1,109.00,93.00,357.00,962.00
+2019,julio,25.00,4014.00,10084.00,1236.00,Fuera Esp,Especificacion,Especificacion,Grupo2,111.00,91.00,349.00,971.00
+2019,julio,26.00,4366.00,11649.00,1854.00,Especificacion,Fuera Esp,Especificacion,Grupo3,116.00,87.00,351.00,964.00
+2019,julio,27.00,4817.00,11302.00,1855.00,Especificacion,Fuera Esp,Especificacion,Grupo4,120.00,86.00,356.00,965.00
+2019,julio,28.00,4115.00,10432.00,1546.00,Especificacion,Fuera Esp,Especificacion,Grupo1,123.00,89.00,348.00,971.00
+2019,julio,29.00,3964.00,10606.00,1314.00,Especificacion,Fuera Esp,Especificacion,Grupo2,121.00,89.00,348.00,975.00
+2019,julio,30.00,4415.00,10432.00,2473.00,Especificacion,Especificacion,Especificacion,Grupo3,117.00,93.00,349.00,973.00
+2019,julio,31.00,4115.00,10432.00,2318.00,Especificacion,Fuera Esp,Especificacion,Grupo4,118.00,88.00,352.00,967.00
+2019,agosto,1.00,3613.00,9911.00,1546.00,Especificacion,Especificacion,Fuera Esp,Grupo1,117.00,90.00,362.00,961.00
+2019,agosto,2.00,4516.00,10780.00,1700.00,Especificacion,Especificacion,Fuera Esp,Grupo2,123.00,92.00,364.00,961.00
+2019,agosto,3.00,4918.00,11475.00,1546.00,Fuera Esp,Especificacion,Fuera Esp,Grupo3,111.00,93.00,361.00,965.00
+2019,agosto,4.00,4315.00,10780.00,1700.00,Fuera Esp,Especificacion,Fuera Esp,Grupo4,109.00,91.00,361.00,971.00
+2019,agosto,5.00,3814.00,10954.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo1,123.00,91.00,350.00,961.00
+2019,agosto,6.00,4817.00,11301.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,120.00,90.00,351.00,961.00
+2019,agosto,7.00,4817.00,11649.00,1623.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,92.00,353.00,961.00
+2019,agosto,8.00,4817.00,10606.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,91.00,352.00,962.00
+2019,agosto,9.00,4918.00,10954.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,115.00,91.00,348.00,964.00
+2019,agosto,10.00,4717.00,11302.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo2,118.00,92.00,352.00,964.00
+2019,agosto,11.00,3412.00,9389.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,121.00,93.00,359.00,965.00
+2019,agosto,12.00,3613.00,10432.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,121.00,90.00,349.00,965.00
+2019,agosto,13.00,3412.00,9041.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo1,121.00,93.00,354.00,967.00
+2019,agosto,14.00,4516.00,10780.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo2,119.00,90.00,353.00,967.00
+2019,agosto,15.00,4817.00,11301.00,1623.00,Especificacion,Especificacion,Especificacion,Grupo3,124.00,93.00,354.00,967.00
+2019,agosto,16.00,4918.00,11475.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo4,117.00,93.00,354.00,969.00
+2019,agosto,17.00,4617.00,11302.00,2318.00,Especificacion,Especificacion,Especificacion,Grupo1,120.00,92.00,359.00,969.00
+2019,agosto,18.00,4817.00,11301.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,117.00,91.00,356.00,971.00
+2019,agosto,19.00,4817.00,11301.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo3,119.00,91.00,348.00,972.00
+2019,agosto,20.00,4315.00,11128.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,121.00,92.00,359.00,972.00
+2019,agosto,21.00,3011.00,9389.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo1,122.00,92.00,358.00,974.00
+2019,agosto,22.00,4918.00,11041.00,1159.00,Especificacion,Especificacion,Especificacion,Grupo2,122.00,91.00,358.00,974.00
+2019,agosto,23.00,4617.00,11302.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo3,118.00,90.00,349.00,975.00
+2019,agosto,24.00,4918.00,11302.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,119.00,92.00,359.00,975.00
+2019,agosto,25.00,4617.00,10954.00,2009.00,Fuera Esp,Especificacion,Especificacion,Grupo1,109.00,91.00,358.00,965.00
+2019,agosto,26.00,3412.00,9215.00,1700.00,Fuera Esp,Especificacion,Especificacion,Grupo2,107.00,92.00,356.00,966.00
+2019,agosto,27.00,4516.00,10432.00,1546.00,Fuera Esp,Especificacion,Especificacion,Grupo3,107.00,93.00,353.00,966.00
+2019,agosto,28.00,4460.00,11475.00,1700.00,Especificacion,Fuera Esp,Especificacion,Grupo4,124.00,87.00,349.00,965.00
+2019,agosto,29.00,3814.00,8867.00,2318.00,Especificacion,Fuera Esp,Especificacion,Grupo1,115.00,87.00,352.00,968.00
+2019,agosto,30.00,4918.00,10084.00,1546.00,Especificacion,Fuera Esp,Especificacion,Grupo2,121.00,87.00,353.00,968.00
+2019,agosto,31.00,4918.00,10432.00,1777.00,Especificacion,Fuera Esp,Especificacion,Grupo3,124.00,86.00,359.00,970.00
+2019,septiembre,1.00,4416.00,9215.00,1159.00,Especificacion,Especificacion,Fuera Esp,Grupo4,121.00,93.00,368.00,969.00
+2019,septiembre,2.00,4617.00,11302.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo1,116.00,92.00,351.00,960.00
+2019,septiembre,3.00,4717.00,10780.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo2,123.00,91.00,350.00,960.00
+2019,septiembre,4.00,4014.00,10084.00,1005.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,91.00,355.00,962.00
+2019,septiembre,5.00,3613.00,10432.00,1314.00,Especificacion,Especificacion,Especificacion,Grupo4,122.00,92.00,349.00,963.00
+2019,septiembre,6.00,4717.00,11823.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo1,117.00,92.00,353.00,964.00
+2019,septiembre,7.00,3814.00,10432.00,773.00,Especificacion,Especificacion,Especificacion,Grupo2,123.00,92.00,354.00,964.00
+2019,septiembre,8.00,4767.00,12170.00,1623.00,Especificacion,Especificacion,Especificacion,Grupo3,122.00,93.00,348.00,965.00
+2019,septiembre,9.00,4617.00,11649.00,2009.00,Especificacion,Especificacion,Especificacion,Grupo4,120.00,91.00,356.00,965.00
+2019,septiembre,10.00,4817.00,11649.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo1,121.00,92.00,358.00,965.00
+2019,septiembre,11.00,4817.00,11649.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo2,119.00,92.00,353.00,965.00
+2019,septiembre,12.00,4817.00,11041.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo3,119.00,91.00,348.00,966.00
+2019,septiembre,13.00,4717.00,11302.00,1777.00,Especificacion,Especificacion,Especificacion,Grupo4,124.00,90.00,359.00,966.00
+2019,septiembre,14.00,4215.00,11823.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo1,122.00,93.00,351.00,967.00
+2019,septiembre,15.00,4918.00,11128.00,1855.00,Especificacion,Especificacion,Especificacion,Grupo2,121.00,91.00,356.00,968.00
+2019,septiembre,16.00,4717.00,113.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo3,125.00,93.00,349.00,968.00
+2019,septiembre,17.00,5018.00,11128.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,125.00,92.00,358.00,969.00
+2019,septiembre,18.00,3814.00,9563.00,1314.00,Especificacion,Especificacion,Especificacion,Grupo1,102.00,90.00,341.00,969.00
+2019,septiembre,19.00,3814.00,9563.00,1314.00,Especificacion,Especificacion,Especificacion,Grupo2,103.00,92.00,347.00,970.00
+2019,septiembre,20.00,4817.00,11736.00,1932.00,Especificacion,Especificacion,Especificacion,Grupo3,108.00,91.00,359.00,972.00
+2019,septiembre,21.00,4817.00,11128.00,1700.00,Especificacion,Especificacion,Especificacion,Grupo4,106.00,92.00,345.00,973.00
+2019,septiembre,22.00,4717.00,10606.00,2164.00,Especificacion,Especificacion,Especificacion,Grupo1,103.00,91.00,340.00,974.00
+2019,septiembre,23.00,4918.00,11823.00,1816.00,Especificacion,Especificacion,Especificacion,Grupo2,110.00,91.00,353.00,975.00
+2019,septiembre,24.00,4867.00,11475.00,2009.00,Fuera Esp,Especificacion,Especificacion,Grupo3,109.00,91.00,353.00,963.00
+2019,septiembre,25.00,4615.00,11649.00,1855.00,Fuera Esp,Especificacion,Especificacion,Grupo4,100.00,91.00,344.00,968.00
+2019,septiembre,26.00,4617.00,11821.00,2009.00,Especificacion,Fuera Esp,Especificacion,Grupo1,104.00,86.00,346.00,965.00
+2019,septiembre,27.00,4717.00,10606.00,1700.00,Especificacion,Fuera Esp,Especificacion,Grupo2,112.00,85.00,342.00,967.00
+2019,septiembre,28.00,4867.00,11997.00,2009.00,Especificacion,Fuera Esp,Especificacion,Grupo3,105.00,88.00,345.00,973.00
+2019,septiembre ,29.00,4918.00,11823.00,1546.00,Especificacion,Especificacion,Especificacion,Grupo4,123.00,91.00,353.00,962.00
+2019,septiembre ,30.00,4867.00,11997.00,1000.00,Especificacion,Especificacion,Especificacion,Grupo1,107.00,91.00,353.00,968.00
